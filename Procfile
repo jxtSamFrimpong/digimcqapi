@@ -1,1 +1,1 @@
-web: gunicorn -b :8000 wsgi:app
+web: gunicorn wsgi: app
