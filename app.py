@@ -71,5 +71,5 @@ def mark_sheme():
 
 
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
