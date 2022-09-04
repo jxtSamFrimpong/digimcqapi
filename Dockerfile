@@ -13,4 +13,4 @@ RUN bash -c "source venv/bin/activate"
 RUN pip3 install --upgrade pip
 RUN pip install -r requirements.txt
 
-CMD ["python3", "wsgi.py"]
+CMD ["python3", "app.py"]
